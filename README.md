@@ -9,6 +9,25 @@ O objetivo é simples: mostrar, lado a lado, como a mesma tarefa, imprimir uma f
 ```
 src/
 ├── apl/            hello.apl
+├── ada/            hello.adb
+├── binary/         hello.txt
+├── clojure/        hello.clj
+├── coffeescript/   hello.coffee
+├── d/              hello.d
+├── delphi/         Hello.dpr
+├── elm/            Main.elm
+├── fsharp/         Program.fs
+├── hack/           hello.hack
+├── html/           index.html
+├── matlab/         hello.m
+├── objective-c/    hello.m
+├── ocaml/          hello.ml
+├── octave/         hello.m
+├── scala/          Hello.scala
+├── scheme/         hello.scm
+├── solidity/       Hello.sol
+├── sql/            hello.sql
+├── typescript/     hello.ts
 ├── assembly/       hello.asm
 ├── befunge/        hello.bf93
 ├── brainfuck/      hello.bf
@@ -51,6 +70,8 @@ Instale o interpretador ou compilador da linguagem e rode o arquivo. Alguns exem
 **Funcionais e clássicas:** Haskell, Common Lisp, Erlang, Elixir, Prolog, Forth, Pascal, Fortran, COBOL, Tcl, APL
 
 **Esotéricas e curiosas:** Brainfuck, Befunge, Ook!, LOLCODE, Nim, Zig
+
+**Outras linguagens:** Binário, HTML, TypeScript, Scala, Delphi, Objective-C, D, Ada, MATLAB, Octave, Elm, CoffeeScript, Hack, OCaml, Scheme, Clojure, F#, SQL, Solidity
 
 ## Observações
 
